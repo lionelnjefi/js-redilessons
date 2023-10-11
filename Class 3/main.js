@@ -55,3 +55,5 @@ console.log(greeting); // ERROR!!!!
 // false && true = false
 // true && false = false
 // false &&false = false
+
+//Test comment for commit to Github
